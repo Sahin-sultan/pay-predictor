@@ -377,3 +377,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Bottom navbar
+    st.markdown("""
+        <div style=\"position: fixed; left: 0; bottom: 0; width: 100%; background: #1e1e1e; color: #cccccc; text-align: center; padding: 12px 0; font-size: 1rem; z-index: 100;\">
+            © 2025 Pay Predict. All rights reserved.<br>
+            Developed by <a href=\"https://github.com/Sahin-sultan\" style=\"color: #4fc3f7; text-decoration: none; font-weight: bold;\" target=\"_blank\">Sahin Sultan</a>
+        </div>
+    """, unsafe_allow_html=True)
