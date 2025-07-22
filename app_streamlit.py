@@ -145,10 +145,9 @@ def main():
         <p class="header-subtitle">AI-Powered Indian Salary Prediction System</p>
         <div class="accuracy-badge">🎯 89% Accuracy</div>
         <div class="social-links">
-            <a href="https://github.com/yourusername/pay-predict" target="_blank">📁 GitHub</a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank">💼 LinkedIn</a>
-            <a href="https://twitter.com/yourhandle" target="_blank">🐦 Twitter</a>
-            <a href="https://discord.gg/yourdiscord" target="_blank">💬 Discord</a>
+            <a href="https://github.com/Sahin-sultan" target="_blank">📁 GitHub</a>
+            <a href="https://linkedin.com/in/sahin-sultan-917b50331" target="_blank">💼 LinkedIn</a>
+            <a href="https://www.instagram.com/sahin_edition/" target="_blank">📸 Instagram</a>
         </div>
     </div>
     """, unsafe_allow_html=True)
